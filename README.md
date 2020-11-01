@@ -11,7 +11,7 @@
 ✍️ &nbsp;On my leisure time I dedicate myself to learning video game design, playing the guitar and listening to music.\
 💬 &nbsp;If you have any questions, do not hesitate to contact me, or just to have an interesting discussion\
 ✉️ &nbsp;You can shoot me an email at danieleduardohortaperez@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
