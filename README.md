@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/Airflect/Airflect/blob/main/assets/Marlborough.png)
+![Aditya Vikram Singh Banner](https://github.com/Airflect/Airflect/blob/main/assets/Marlborough.png)
 
 
 ## 👋 &nbsp;Hey there! I'm Daniel
