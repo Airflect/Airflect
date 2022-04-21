@@ -6,8 +6,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to be constantly learning new technologies and developing software solutions.\
-🎓 &nbsp;I'm currently studying Computer Engineering at the Instituto Politécnico Nacional.\
-🌱 &nbsp;I'm interested in learning professional development of mobile applications, artificial intelligence, systems design and software maintenance.\
+🎓 &nbsp; I am in my last two months of the Computer Engineering career at the Instituto Politecnico Nacional and looking for new opportunities.\
+🌱 &nbsp; I'm interested in learning artificial intelligence, data science and development of mobile applications.\
 ✍️ &nbsp;On my leisure time I dedicate myself to learning video game design, playing the guitar and listening to music.\
 💬 &nbsp;If you have any questions, do not hesitate to contact me, or just to have an interesting discussion\
 ✉️ &nbsp;You can shoot me an email at danieleduardohortaperez@gmail.com I'll try to respond as soon as I can.\
