@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to be constantly learning new technologies and developing software solutions.\
-🎓 &nbsp;I'm in my last two months of the Computer Engineering career at the Instituto Politecnico Nacional and looking for new opportunities.\
+🎓 &nbsp;I finished my Computer Engineering career at the Instituto Politecnico Nacional and looking for new opportunities.\
 🌱 &nbsp;I'm interested in learning artificial intelligence, data science and development of mobile applications.\
 ✍️ &nbsp;On my leisure time I dedicate myself to learning video game design, playing the guitar and listening to music.\
 💬 &nbsp;If you have any questions, do not hesitate to contact me, or just to have an interesting discussion\
